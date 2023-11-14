@@ -1,0 +1,162 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 22621.2428; Version 2009; 64bit' Language: 'es' Physical Memory: 32471 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/diego/OneDrive/Escritorio/Deberes/Acoustic adventures
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56193
+Successfully changed project path to: C:/Users/diego/OneDrive/Escritorio/Deberes/Acoustic adventures
+C:/Users/diego/OneDrive/Escritorio/Deberes/Acoustic adventures
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/diego/OneDrive/Escritorio/Deberes/Acoustic adventures/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   
+    VRAM:     7971 MB
+    Driver:   31.0.15.3734
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001221 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.721 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 44.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2279 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.9 MB.
+System memory in use after: 109.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2734.
+Total: 1.773800 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.062300 ms MarkObjects: 1.515600 ms  DeleteObjects: 0.025700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/2DGamekit/Scripts/Core
+  artifactKey: Guid(c332cc2d143754cf6973cf5715eae8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Core using Guid(c332cc2d143754cf6973cf5715eae8cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77affb544fb095b9613c459b2c2880bd') in 0.069293 seconds
+  Import took 0.083025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.567486 seconds.
+  path: Assets/2DGamekit/Scripts/Utility
+  artifactKey: Guid(98484804dd14e114689154e431d1c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Utility using Guid(98484804dd14e114689154e431d1c9b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61c56703ff726335b62ffa1d80fcdfc9') in 0.051851 seconds
+  Import took 0.057684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.578987 seconds.
+  path: Assets/2DGamekit/Scripts/SceneManagement
+  artifactKey: Guid(0dfbaf70dc263bb44bf790cc644bbc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/SceneManagement using Guid(0dfbaf70dc263bb44bf790cc644bbc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e59448227cd45a27177de8967817c9') in 0.013424 seconds
+  Import took 0.018465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.973362 seconds.
+  path: Assets/2DGamekit/Scripts/AI
+  artifactKey: Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/AI using Guid(a4512e3eb42dc4cbfb4dbd64d0f24790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0953311dbd3a0848c6c039ad75cd082') in 0.103979 seconds
+  Import took 0.110560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.932929 seconds.
+  path: Assets/2DGamekit/Scripts/Character/MonoBehaviours/PlayerCharacter.cs
+  artifactKey: Guid(49de84fa3d321d245bc900e599de015f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Character/MonoBehaviours/PlayerCharacter.cs using Guid(49de84fa3d321d245bc900e599de015f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969554b4161c06495442478388e12c8c') in 0.057647 seconds
+  Import took 0.062354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.644095 seconds.
+  path: Assets/2DGamekit/Scripts/Character/MonoBehaviours/PlayerInput.cs
+  artifactKey: Guid(aeecda2baef25704c8fe802e627e9f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Character/MonoBehaviours/PlayerInput.cs using Guid(aeecda2baef25704c8fe802e627e9f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ca547c92fccd1910cc50fea6bf3355') in 0.041753 seconds
+  Import took 0.048872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.532869 seconds.
+  path: Assets/2DGamekit/Scripts/Character/MonoBehaviours/Bullet.cs
+  artifactKey: Guid(20f916c2dfd5f3b47bc8cf6ae8d8452e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Character/MonoBehaviours/Bullet.cs using Guid(20f916c2dfd5f3b47bc8cf6ae8d8452e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1d3ca836ded06be9ea0a9a916052c8b') in 0.105204 seconds
+  Import took 0.113131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.802381 seconds.
+  path: Assets/2DGamekit/Scenes/Zone1.unity
+  artifactKey: Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scenes/Zone1.unity using Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5b472bec5561a84431ce34cdf6f30c') in 0.086965 seconds
+  Import took 0.092077 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.872 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2221 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 104.9 MB.
+System memory in use after: 105.1 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2738.
+Total: 2.067100 ms (FindLiveObjects: 0.179200 ms CreateObjectMapping: 0.063200 ms MarkObjects: 1.794800 ms  DeleteObjects: 0.028800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
